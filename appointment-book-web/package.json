@@ -1,0 +1,8 @@
+{
+  "name": "AppointmentBook",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/walkerdepaula/appointmentBook/tree/react-dev",
+  "author": "Walker de Paula",
+  "license": "MIT"
+}
