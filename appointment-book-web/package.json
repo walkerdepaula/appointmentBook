@@ -4,5 +4,10 @@
   "main": "index.js",
   "repository": "https://github.com/walkerdepaula/appointmentBook/tree/react-dev",
   "author": "Walker de Paula",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-latest": "^6.24.1",
+    "babel-preset-react": "^6.24.1"
+  }
 }
